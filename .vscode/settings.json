@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "fastapi",
+        "httpx",
+        "isouter",
+        "ondelete",
+        "pydantic",
+        "sqlalchemy"
+    ]
+}
